@@ -1,1 +1,3 @@
-# 20240624_test_repository
+# SeaBASS exercise
+
+## Project description
